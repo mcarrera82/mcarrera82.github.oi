@@ -1,0 +1,34 @@
+p { 
+color: blue;
+}
+
+ol, ul {
+width:200px;
+border: 1px solid black;
+}
+
+h1, h2 {
+font-family: 'Montserrat', sans-serif;
+}
+
+p{
+font-size: 20px;
+
+}
+
+h3,p,ul {
+font-family: 'Josefin Sans', sans-serif;
+}
+
+html {
+background-color: #EFE8DE;
+}
+
+h1, h3 {text-shadow: 5px 3px 1px grey;
+}
+
+img {
+display: block;
+margin: 0 auto;
+}
+
